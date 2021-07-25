@@ -36,7 +36,7 @@ export default function Projects() {
             {
                 logo: DigitalMarkingLogo,
                 project_name: 'Digital Marking',
-                url: 'https://digitalmarking.site/',
+                url: 'https://digitalmarking.herokuapp.com/',
                 details: [
                     'This project is about Optimal Mark Recognition (OMR) reading',
                 ]
