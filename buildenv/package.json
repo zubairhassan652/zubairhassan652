@@ -1,9 +1,0 @@
-{
-    "dependencies": {
-    "serve": "^12.0.0"
-    },
-    "scripts": {
-    "p": "serve -s . -l tcp://0.0.0.0:8080"
-    },
-    "license": "UNLICENSED"
-}
